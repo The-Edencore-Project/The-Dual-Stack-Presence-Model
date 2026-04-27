@@ -1,5 +1,3 @@
-# The-Dual-Stack-Presence-Model
-
 # 🌿 **The Dual Stack Presence Model (DSPM)**
 ### *Edencore’s behavioural architecture — alive, atmospheric, never aware*
 
