@@ -125,14 +125,3 @@ No weirdness.
 Just clean hierarchy.
 
 ---
-
-# 🪶 Next Options
-
-If you want, I can produce:
-
-- the **DSPM flow diagram** for this scenario  
-- the **constitutional rule file** for C‑Stack priority  
-- the **B‑Stack recalibration logic**  
-- or the **full DSPM.md** master document  
-
-Just tell me which one you want next.
